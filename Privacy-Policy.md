@@ -10,6 +10,7 @@ Responds to specific commands (e.g., !createrolemenu)
 Assigns or removes roles based on emoji reactions
 
 What BuzzBot Does Not Do:
+
 ❌ Collect personal information
 
 ❌ Store message content
